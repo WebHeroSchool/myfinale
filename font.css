@@ -1,20 +1,20 @@
 @font-face {
   font-family: 'PT Serif', serif;
-  src: url('font/PTSerif-Bold.ttf');
+  src: url('font/PTSerif-Bold.ttf') url(font/PTSerif-Bold.otf) url(font/PTSerif-Bold.eot) url(font/PTSerif-Bold.woff) url(font/PTSerif-Bold.svg);
   font-weight: bold;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Roboto', sans-serif;
-  src: url('font/Roboto-Regular.ttf');
+  src: url('font/Roboto-Regular.ttf') url(font/Roboto-Regular.woff) url(font/Roboto-Regular.otf) url(font/Roboto-Regular.eot) url(font/Roboto-Regular.svg);
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Roboto', sans-serif;
-  src: url('font/Roboto-Medium.ttf');
+  src: url('font/Roboto-Medium.ttf') url(font/Roboto-Medium.eot) url(font/Roboto-Medium.otf) url(font/Roboto-Medium.woff) url(font/Roboto-Medium.svg);
   font-weight: 500;
   font-style: normal;
 }
