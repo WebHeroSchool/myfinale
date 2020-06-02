@@ -1,0 +1,21 @@
+@font-face {
+  font-family: 'PT Serif', serif;
+  src: url(fonts/pt-serif-v11-latin_cyrillic-regular.woff) url(fonts/pt-serif-v11-latin_cyrillic-regular.woff2);
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Roboto', sans-serif;
+  src: url(fonts/roboto-v20-latin_cyrillic-regular.woff) url(fonts/roboto-v20-latin_cyrillic-regular.woff2);
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Roboto', sans-serif;
+  src: url(fonts/roboto-v20-latin_cyrillic-500.woff) url(fonts/roboto-v20-latin_cyrillic-500.woff2);
+  font-weight: 500;
+  font-style: normal;
+}
+
