@@ -4,9 +4,8 @@
 }
 
 .container {
-    max-width: 1920px;
+    width: 1500px;
     margin: 0 auto;
-    heigh: 100%;
 }
 .header {
     height: 80px;
@@ -17,6 +16,7 @@
 .header__img {
     display: flex;
     Justify-content: center;
+    padding-left: 130px;
 }
 
 .header__menu {
@@ -41,7 +41,11 @@
 .main {
     display: flex;
     Justify-content: space-between;
+    padding: 130px;
+}
 
+.main__content{
+    width: 50%;
 }
 
 .section__title {
@@ -51,6 +55,7 @@
     font-style: normal;
     font-weight: bold;
     font-size: 66px;
+    line-height: 87px;
     align-items: center;
     color: #000;
 }
@@ -83,7 +88,11 @@
     cursor: pointer;
 }
 
-.main__img {
+.main__img{
+    width: 50%;
+}
+
+.img__item {
     width: 100%;
     max-width: 770px;
     height: auto;
@@ -95,7 +104,6 @@
     height: 80px;
     justify-content: center;
 }
-
 
 .footer__img {
     display: flex;
