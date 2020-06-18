@@ -8,16 +8,15 @@
     margin: 0 auto;
 }
 .header {
-    height: 100px;
+    height: 110px;
     display: flex;
     align-items: center;
     Justify-content: space-between;
-    padding: 0 130px;
+    padding: 0 190px;
 }
 .header__img {
     display: flex;
     Justify-content: center;
-    padding: 50px;
 }
 
 .header__menu {
@@ -43,7 +42,7 @@
 .main {
     display: flex;
     Justify-content: space-between;
-    padding: 140px 190px;
+    padding: 140px 210px;
 }
 
 .main__content{
@@ -103,7 +102,7 @@
 .footer {
     display: flex;
     flex-direction: column-reverse;
-    height: 80px;
+    height: 110px;
     justify-content: center;
 }
 
